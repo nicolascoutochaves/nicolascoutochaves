@@ -20,8 +20,10 @@
   <img align="center" height="40" width="50" src="https://icongr.am/devicon/html5-original.svg?size=148&color=currentColor">
   <img align="center" height="40" width="50" src="https://icongr.am/devicon/css3-original.svg?size=148&color=currentColor">
   <img align="center" height="40" width="50" src="https://icongr.am/devicon/javascript-original.svg?size=148&color=currentColor">
-  <br>
-  
+  <br> <br>
 </div>
+
+
+![Snake animation](https://github.com/nicolascoutochaves/nicolascoutochaves/blob/output/github-contribution-grid-snake.svg)
 
 
