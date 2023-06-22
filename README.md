@@ -1,6 +1,5 @@
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/n%C3%ADcolas-chaves-27b7a1268/">
+<div align="center"> 
   <img height="225em" src="https://github-readme-stats.vercel.app/api?username=nicolascoutochaves&show_icons=true&theme=dracula">
 </div>
 
