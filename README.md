@@ -12,18 +12,11 @@
 </div><br>
 <div align="center" style="display: inline_block">
   <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolascoutochaves&layout=compact"><br><br>
-  <img align="center" height="40" width="50" src="https://icongr.am/devicon/c-original.svg?size=148&color=currentColor">
-  <img align="center" height="40" width="50" src="https://icongr.am/devicon/cplusplus-original.svg?size=148&color=currentColor">
-  <img align="center" height="40" width="50" src="https://icongr.am/devicon/csharp-original.svg?size=148&color=currentColor">
-  <img align="center" height="40" width="50" src="https://icongr.am/devicon/javascript-original.svg?size=148&color=currentColor">
-  <img align="center" height="40" width="50" src="https://icongr.am/devicon/html5-original.svg?size=148&color=currentColor">
-  <img align="center" height="40" width="50" src="https://icongr.am/devicon/css3-original.svg?size=148&color=currentColor">
-  
+  <img align="center" height="60" width="75" src="https://icongr.am/devicon/c-original.svg?size=148&color=currentColor">
+  <img align="center" height="60" width="75" src="https://icongr.am/devicon/cplusplus-original.svg?size=148&color=currentColor">
+
   
   <br>
 </div>
-
-
-![Snake animation](https://github.com/nicolascoutochaves/nicolascoutochaves/blob/output/github-contribution-grid-snake.svg)
 
 
