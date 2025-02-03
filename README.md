@@ -12,8 +12,9 @@
 </div><br>
 <div align="center" style="display: inline_block">
   <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolascoutochaves&layout=compact"><br><br>
-  <img align="center" height="60" width="75" src="https://icongr.am/devicon/c-original.svg?size=148&color=currentColor">
-  <img align="center" height="60" width="75" src="https://icongr.am/devicon/cplusplus-original.svg?size=148&color=currentColor">
+  <img align="center" height="70" width="70" src="https://icongr.am/devicon/c-original.svg?size=148&color=currentColor">
+  <img align="center" height="70" width="70" src="https://icongr.am/devicon/cplusplus-original.svg?size=148&color=currentColor">
+  <img align="center" height="70" width="70" src="https://www.svgrepo.com/show/374163/verilog.svg?size=160&color=currentColor">
 
   
   <br>
