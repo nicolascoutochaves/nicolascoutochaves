@@ -12,12 +12,21 @@
 </div><br>
 <div align="center" style="display: inline_block">
   <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolascoutochaves&layout=compact"><br><br>
-  <img align="center" height="70" width="70" src="https://icongr.am/devicon/c-original.svg?size=148&color=currentColor">
-  <img align="center" height="70" width="70" src="https://icongr.am/devicon/cplusplus-original.svg?size=148&color=currentColor">
-  <img align="center" height="70" width="70" src="https://www.svgrepo.com/show/374163/verilog.svg?size=160&color=currentColor">
+  <img align="center" height="55" width="55" src="https://icongr.am/devicon/c-original.svg?size=148&color=currentColor">
+  <img align="center" height="55" width="55" src="https://icongr.am/devicon/cplusplus-original.svg?size=148&color=currentColor">
+  <img align="center" height="55" width="55" src="https://icongr.am/devicon/csharp-original.svg?size=148&color=currentColor">
+  
+  <img align="center" height="70" width="70" src="https://icongr.am/devicon/java-original-wordmark.svg?size=148&color=currentColor">
+  <img align="center" height="70" width="70" src="https://icongr.am/devicon/php-original.svg?size=148&color=currentColor">
+  <img align="center" height="70" width="70" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=148&color=currentColor">
+  
+  <img align="center" height="50" width="50" src="https://icongr.am/devicon/html5-original.svg?size=148&color=currentColor">
+  <img align="center" height="50" width="50" src="https://icongr.am/devicon/css3-original.svg?size=148&color=currentColor">
+  <img align="center" height="50" width="50" src="https://icongr.am/devicon/javascript-original.svg?size=148&color=currentColor">
 
   
   <br>
 </div>
+
 
 
